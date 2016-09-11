@@ -1,0 +1,4 @@
+./mandelbrot  -2  -2  4  whole.png
+./mandelbrot  -0.74100 0.1207 0.0024  zoom1.png
+./mandelbrot  -0.16070200 1.0375658 0.0000014  zoom2.png
+./mandelbrot  -0.7427 0.11064 0.00045  zoom3.png
